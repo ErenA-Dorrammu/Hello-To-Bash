@@ -26,7 +26,7 @@ while true;
 #history | grep tail
 
 #ctrl + l = clears the terminal
-
+ q / Q for quitting terminal output
 
 
 
